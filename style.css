@@ -1,3 +1,7 @@
+body{
+    background-image: url(content/background.png);
+}
+
 .circle{
     background-color: white;
     width: 500px;
@@ -12,6 +16,7 @@
     box-shadow: black 10px 10px 10px;
     transition: box-shadow .2s ease;
     margin-top: 3%;
+    opacity: 0.8;
 }
 
 .circle:hover{
@@ -39,4 +44,10 @@
     background-color: black;
     width: 500px;
     height: 4px;
+}
+
+.descriptor{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13pt;
+    text-align: center;
 }
