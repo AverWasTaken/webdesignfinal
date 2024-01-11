@@ -1,0 +1,31 @@
+Buisness Name - Jittzerz 
+
+Slogan - Wake up your world.
+ 
+Buisness Type - Coffee
+
+Year Est - 2024
+
+Owner - Ryder & Jacob
+Description - A local coffee shop loved by many and enjoyed by the whole Sandpoint area, we make and blend delicious drinks for all to enjoy!
+
+Customers - Locals from Sandpoint and around the world?
+
+Contact & Loc - Address: 1301 US-2, Sandpoint, ID 83864 - Phone: (208) 765-3438
+
+Hours - Thursday	4:30 AM–7 PM
+Friday	4:30 AM–7 PM
+Saturday	6 AM–7 PM
+Sunday	6 AM–5 PM
+Monday
+(Martin Luther King Jr. Day/Idaho Human Rights Day)
+4:30 AM–7 PM
+Hours might differ
+Tuesday	4:30 AM–7 PM
+Wednesday	4:30 AM–7 PM
+
+Web Site Map - 
+
+Main Css - style.css
+
+Html - index.html,menu.html,tos.html
