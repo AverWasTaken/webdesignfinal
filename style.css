@@ -13,14 +13,14 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: black 10px 10px 10px;
+    box-shadow: white 0px 0px 20px;
     transition: box-shadow .2s ease;
     margin-top: 3%;
     opacity: 0.8;
 }
 
 .circle:hover{
-    box-shadow: black 20px 20px 10px;
+    box-shadow: white 0px 0px 50px;
 }
 
 .title{
@@ -33,6 +33,7 @@ body{
 
 .hey{
     font-size: 50pt;
+    text-shadow: 1px 1px black;
 }
 
 .titlewelc{
