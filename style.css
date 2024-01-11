@@ -21,11 +21,22 @@
 .title{
     display: block;
     text-align: center;
-    padding: 10% 0;
+    padding: 4% 0;
     font-family: Jost;
     font-size: 34pt;
 }
 
+.hey{
+    font-size: 50pt;
+}
+
 .titlewelc{
     text-decoration: underline;
+    font-size: 31pt;
+}
+
+.line{
+    background-color: black;
+    width: 500px;
+    height: 4px;
 }
